@@ -1,4 +1,5 @@
 .env
 /venv/
 db.sqlite3
+/mealplan/__pycache__/
 
